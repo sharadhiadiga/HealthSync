@@ -74,7 +74,7 @@ HealthSync is designed to provide continuous patient monitoring by integrating w
 ```bash
 git clone https://github.com/sharadhiadiga/HealthSync.git
 
-cd smartgloves
+cd HealthSync
 ```
 
 ---
