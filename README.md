@@ -1,4 +1,4 @@
-# 🧤 Smart Gloves Health Monitoring System
+# 🧤 HealthSync - Health Monitoring System
 
 A wearable IoT-based health monitoring platform that continuously monitors patient vital signs using sensor-enabled smart gloves. The system collects physiological data, processes it through an ML-powered backend for risk assessment, and displays real-time health status on a mobile application, enabling proactive healthcare monitoring.
 
@@ -6,7 +6,7 @@ A wearable IoT-based health monitoring platform that continuously monitors patie
 
 #  Overview
 
-The Smart Gloves Health Monitoring System is designed to provide continuous patient monitoring by integrating wearable sensors, IoT communication, machine learning, and mobile technologies. The gloves collect vital health parameters, transmit them to a backend server through an ESP32 microcontroller, and classify the patient's condition into different risk levels. The processed information is then displayed on a real-time mobile dashboard, allowing caregivers and healthcare professionals to monitor patients efficiently.
+HealthSync is designed to provide continuous patient monitoring by integrating wearable sensors, IoT communication, machine learning, and mobile technologies. The gloves collect vital health parameters, transmit them to a backend server through an ESP32 microcontroller, and classify the patient's condition into different risk levels. The processed information is then displayed on a real-time mobile dashboard, allowing caregivers and healthcare professionals to monitor patients efficiently.
 
 
 
@@ -72,7 +72,7 @@ The Smart Gloves Health Monitoring System is designed to provide continuous pati
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sharadhiadiga/smartgloves.git
+git clone https://github.com/sharadhiadiga/HealthSync.git
 
 cd smartgloves
 ```
